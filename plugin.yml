@@ -1,0 +1,11 @@
+---
+name: MarketEconomy
+version: 1.0.0
+api:
+  - 4.0.0
+author: nlog
+main: nlog\market\MarketEconomy
+depend:
+  - AdvancedMarket
+  - EconomyAPI
+...
